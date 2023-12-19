@@ -5,7 +5,7 @@ Open Source Button Choc
 
 ---
 
-## Heavily inspired by [OSBMX](hhttps://github.com/OpenStickCommunity/Hardware/tree/main/OSBMX) and [Circle Keycaps](https://github.com/rana-sylvatica/circle-keycaps).
+## Heavily inspired by [OSBMX](https://github.com/OpenStickCommunity/Hardware/tree/main/OSBMX) and [Circle Keycaps](https://github.com/rana-sylvatica/circle-keycaps).
 
 ![Mounted](https://github.com/Armastardo/OSBCH/blob/main/Images/mounted.png)
 
